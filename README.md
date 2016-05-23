@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rcb-syl-hw
 
 ### Syllabus
@@ -28,3 +29,6 @@
 | ------ | ----------- | ----------- | ----------- |
 | 09 | 03/26/2016 | M3 Watch | https://github.com/lijasminej/m3-watch |
 | 16 | 05/21/2016 | JJJ Jewelry Box | https://github.com/lijasminej/jjj-jewelry-box |
+=======
+# rcb-syl-hw
+>>>>>>> d9b7d4fa82800fd281474ba3926e69fee1b98c25
